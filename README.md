@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YousK2
-- 👀 I’m interested in computers and graphic designs + skateboarding
+- 👀 I’m interested in computers and graphic designs 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on learing how to be useful as a full stack developer
 - 📫 How to reach me via email yousrablue@gmail.com
